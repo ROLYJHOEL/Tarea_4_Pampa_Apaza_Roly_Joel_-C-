@@ -1,0 +1,18 @@
+.parisienne-regular {
+    font-family: "Parisienne", cursive;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 25px;
+  }
+  .protest-revolution-regular {
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+  }
+  .row
+  {
+    background-color: gold;
+    margin: 5px;
+  }
+  
